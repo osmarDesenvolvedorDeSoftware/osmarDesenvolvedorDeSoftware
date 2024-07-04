@@ -12,6 +12,25 @@
   💼 <strong>Ferramentas:</strong> Android Studio
 </p>
 
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=osmarDesenvolvedorDeSoftware&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmarDesenvolvedorDeSoftware&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Linguagens mais usadas"
+      />
+    </td>
+  </tr>
+</table>
+
 <p align="left">
   💌 <strong>Entrar em contato:</strong> ⤵️
 </p>
