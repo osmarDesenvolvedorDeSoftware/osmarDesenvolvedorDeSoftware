@@ -5,31 +5,18 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens:</strong> Kotlin
+  🦄 <strong>Linguagens:</strong> Java, Kotlin
 </p>
 
 <p align="left">
   💼 <strong>Ferramentas:</strong> Android Studio
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=osmarDesenvolvedorDeSoftware&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmarDesenvolvedorDeSoftware&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Linguagens mais usadas"
-      />
-    </td>
-  </tr>
-</table>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmarDesenvolvedorDeSoftware&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas" />
+</p>
+
+<br clear="both"/>
 
 <p align="left">
   💌 <strong>Entrar em contato:</strong> ⤵️
