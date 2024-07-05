@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+<img src="https://th.bing.com/th/id/R.28e64264caae7103f54d983d92442dac?rik=hUoRkxsQTxyR8Q&riu=http%3a%2f%2flearnpath1.azurewebsites.net%2fwp-content%2fuploads%2f2019%2f03%2fCurso-de-desarrollador-android.jpg&ehk=oMdAhtwuC1JEBXyx0OoeFHAaUoQgL%2bjcc3aV9jwhUFU%3d&risl=&pid=ImgRaw&r=0" alt="ilustração de um computador" width="400px" align="right">
 
 <p align="left"> 
   Olá, meu nome é Osmar e sou desenvolvedor Android com sólida experiência na criação e manutenção de aplicativos móveis.
