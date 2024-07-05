@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens:</strong> Java, Kotlin
+  👅 <strong>Linguagens:</strong> Java, Kotlin
 </p>
 
 <p align="left">
