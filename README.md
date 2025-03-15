@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/osmarDesenvolvedorDeSoftware/osmarDesenvolvedorDeSoftware/refs/heads/main/banner.webp" alt="Banner Profissional" width="100%" />
+<img src="https://github.com/osmardev/banner.png" alt="Banner Profissional" width="100%" />
 
 <h2 align="center">👋 Olá, sou Osmar - Desenvolvedor Android!</h2>
 
@@ -16,38 +16,58 @@ Sou apaixonado por tecnologia e desenvolvimento mobile 📱. Tenho experiência 
 
 ---
 
-### **📂 Projetos Recentes**
-#### **⚽ Futebol de Várzea**  
-📝 **Descrição:** Aplicativo para gerenciamento de partidas e campeonatos amadores.  
-🔗 [Repositório GitHub](https://github.com/osmardev/futebolterca)  
-📲 **Disponível na Play Store** → [Baixar Agora](https://play.google.com/store/apps/details?id=com.osmar.futebol)  
+### **📂 Projetos Destacados**
+[![Futebol de Várzea](https://github-readme-stats.vercel.app/api/pin/?username=osmarDesenvolvedorDeSoftware&repo=futebol_de_terca&theme=dracula)](https://github.com/osmarDesenvolvedorDeSoftware/futebol_de_terca)
 
-#### **📊 Melhor Preço**  
-🛒 **Descrição:** App para comparar preços de produtos em supermercados.  
-🔗 [Repositório GitHub](https://github.com/osmardev/melhorpreco)  
+[![Melhor Preço](https://github-readme-stats.vercel.app/api/pin/?username=osmarDesenvolvedorDeSoftware&repo=melhorpreco&theme=dracula)](https://github.com/osmarDesenvolvedorDeSoftware/melhorpreco)
 
 ---
 
 ### **📱 Meu Portfólio**
 🌍 **Acesse:** [osmardev.online](https://osmardev.online)  
 
+📲 **Apps na Play Store:**  
+[Futebol de Várzea - Baixar Agora](https://play.google.com/store/apps/details?id=com.osmar.futebol)  
+
 ---
 
 ### **📊 GitHub Stats**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osmardev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmardev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osmarDesenvolvedorDeSoftware&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmarDesenvolvedorDeSoftware&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
-### **📬 Entre em Contato**
-📧 **Email:** [osmar@osmardev.online](mailto:osmar@osmardev.online)  
-💼 **LinkedIn:** [linkedin.com/in/osmardev](https://www.linkedin.com/in/osmardev)  
-💬 **WhatsApp:** [Clique para conversar](https://wa.me/5516996246673)  
-🌎 **Portfólio:** [osmardev.online](https://osmardev.online)  
+### 🔥 Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=osmarDesenvolvedorDeSoftware&theme=dracula" alt="Streak Stats"/>
 
 ---
 
-### **🚀 Vamos nos conectar!**
-Se você está em busca de um **Desenvolvedor Android** com paixão por tecnologia e experiência em **boas práticas de desenvolvimento**, entre em contato! 😃  
+### 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=osmarDesenvolvedorDeSoftware&theme=dracula&column=4)
+
+---
+
+### 🐍 Minhas Contribuições
+![Snake animation](https://raw.githubusercontent.com/osmarDesenvolvedorDeSoftware/osmarDesenvolvedorDeSoftware/main/dist/github-contribution-grid-snake.svg)
+
+---
+
+### 🚀 Status Atual
+- 📱 Trabalhando em: **Novos Apps Android**
+- 📚 Aprendendo: **Jetpack Compose e Firebase Firestore**
+- 🤝 Aberto para: **Oportunidades de Desenvolvimento Android**
+
+---
+
+### 📬 Contato
+📧 **Email:** [osmar@osmardev.online](mailto:osmar@osmardev.online)  
+💼 **LinkedIn:** [linkedin.com/in/osmardev](https://www.linkedin.com/in/osmardev)  
+📱 **WhatsApp:** [Clique para conversar](https://wa.me/5516996246673)  
+🌍 **Portfólio:** [osmardev.online](https://osmardev.online)  
+
+---
+
+### 🎉 Obrigado por visitar meu perfil!
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200px">
