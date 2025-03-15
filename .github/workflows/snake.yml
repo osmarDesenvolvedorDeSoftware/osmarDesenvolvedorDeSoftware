@@ -16,18 +16,21 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: osmarDesenvolvedorDeSoftware
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: github-contribution-grid-snake.svg
 
       - name: Criar diretório dist
         run: mkdir -p dist
 
       - name: Mover a animação para o diretório correto
-        run: mv github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg
+        run: mv github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg || echo "Arquivo não encontrado, pulando."
+
+      - name: Listar arquivos para debug
+        run: ls -R
 
       - name: Commit e Push da Animação
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Atualizando animação da cobra 🐍"
-          git push
+          git add dist/github-contribution-grid-snake.svg || echo "Nada para adicionar."
+          git commit -m "Atualizando animação da cobra 🐍" || echo "Nada para commit."
+          git push || echo "Nada para push."
