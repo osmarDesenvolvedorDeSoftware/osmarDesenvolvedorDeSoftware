@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Atualiza a cada 24h
+    - cron: "0 0 * * *"  # Executa uma vez por dia à meia-noite
   workflow_dispatch:
 
 jobs:
@@ -17,6 +17,12 @@ jobs:
         with:
           github_user_name: osmarDesenvolvedorDeSoftware
           svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Criar diretório dist
+        run: mkdir -p dist
+
+      - name: Mover a animação para o diretório correto
+        run: mv github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg
 
       - name: Commit e Push da Animação
         run: |
