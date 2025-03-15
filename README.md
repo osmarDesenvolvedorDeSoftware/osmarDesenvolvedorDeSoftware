@@ -1,4 +1,4 @@
-<img src="https://github.com/osmardev/banner.png" alt="Banner Profissional" width="100%" />
+<img src="https://raw.githubusercontent.com/osmarDesenvolvedorDeSoftware/osmarDesenvolvedorDeSoftware/refs/heads/main/banner.webp" alt="Banner Profissional" width="100%" />
 
 <h2 align="center">👋 Olá, sou Osmar - Desenvolvedor Android!</h2>
 
@@ -18,8 +18,6 @@ Sou apaixonado por tecnologia e desenvolvimento mobile 📱. Tenho experiência 
 
 ### **📂 Projetos Destacados**
 [![Futebol de Várzea](https://github-readme-stats.vercel.app/api/pin/?username=osmarDesenvolvedorDeSoftware&repo=futebol_de_terca&theme=dracula)](https://github.com/osmarDesenvolvedorDeSoftware/futebol_de_terca)
-
-[![Melhor Preço](https://github-readme-stats.vercel.app/api/pin/?username=osmarDesenvolvedorDeSoftware&repo=melhorpreco&theme=dracula)](https://github.com/osmarDesenvolvedorDeSoftware/melhorpreco)
 
 ---
 
