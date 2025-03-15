@@ -1,41 +1,53 @@
-<img src="https://th.bing.com/th/id/R.28e64264caae7103f54d983d92442dac?rik=hUoRkxsQTxyR8Q&riu=http%3a%2f%2flearnpath1.azurewebsites.net%2fwp-content%2fuploads%2f2019%2f03%2fCurso-de-desarrollador-android.jpg&ehk=oMdAhtwuC1JEBXyx0OoeFHAaUoQgL%2bjcc3aV9jwhUFU%3d&risl=&pid=ImgRaw&r=0" alt="ilustração de um computador" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/osmarDesenvolvedorDeSoftware/osmarDesenvolvedorDeSoftware/refs/heads/main/banner.webp" alt="Banner Profissional" width="100%" />
 
-<p align="left"> 
-  Olá, meu nome é Osmar e sou desenvolvedor Android com sólida experiência na criação e manutenção de aplicativos móveis.
-</p>
+<h2 align="center">👋 Olá, sou Osmar - Desenvolvedor Android!</h2>
 
-<p align="left">
-  👅 <strong>Linguagens:</strong> Java, Kotlin
-</p>
+Sou apaixonado por tecnologia e desenvolvimento mobile 📱. Tenho experiência na **criação e manutenção de aplicativos Android**, utilizando **boas práticas, arquitetura moderna e ferramentas eficientes**.
 
-<p align="left">
-  💼 <strong>Ferramentas:</strong> Android Studio
-</p>
+---
 
+### **🛠 Tecnologias e Ferramentas**
+✅ **Linguagens:** Kotlin, Java  
+✅ **Arquitetura:** MVVM, MVP, Clean Architecture  
+✅ **Banco de Dados:** SQLite, Room, Firebase Firestore  
+✅ **APIs & Networking:** Retrofit, Volley  
+✅ **UI/UX:** XML, Material Design, Jetpack Compose (aprendendo)  
+✅ **Outras Ferramentas:** Git, Android Studio, Firebase, Play Console  
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmarDesenvolvedorDeSoftware&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas" />
-</p>
+---
 
-<br clear="both"/>
+### **📂 Projetos Recentes**
+#### **⚽ Futebol de Várzea**  
+📝 **Descrição:** Aplicativo para gerenciamento de partidas e campeonatos amadores.  
+🔗 [Repositório GitHub](https://github.com/osmardev/futebolterca)  
+📲 **Disponível na Play Store** → [Baixar Agora](https://play.google.com/store/apps/details?id=com.osmar.futebol)  
 
-<p align="left">
-  💌 <strong>Entrar em contato:</strong> ⤵️
-</p>
+#### **📊 Melhor Preço**  
+🛒 **Descrição:** App para comparar preços de produtos em supermercados.  
+🔗 [Repositório GitHub](https://github.com/osmardev/melhorpreco)  
 
-<p align="left">
-  <a href="mailto:osmar@osmardev.online" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/osmardev" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/5516996246673" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.facebook.com/osmar.cavalcante.9?mibextid=ZbWKwL" title="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/osmar.cavalcante.9?igsh=NjFlb2xyMWdlN3g=" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+---
+
+### **📱 Meu Portfólio**
+🌍 **Acesse:** [osmardev.online](https://osmardev.online)  
+
+---
+
+### **📊 GitHub Stats**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osmardev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmardev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+### **📬 Entre em Contato**
+📧 **Email:** [osmar@osmardev.online](mailto:osmar@osmardev.online)  
+💼 **LinkedIn:** [linkedin.com/in/osmardev](https://www.linkedin.com/in/osmardev)  
+💬 **WhatsApp:** [Clique para conversar](https://wa.me/5516996246673)  
+🌎 **Portfólio:** [osmardev.online](https://osmardev.online)  
+
+---
+
+### **🚀 Vamos nos conectar!**
+Se você está em busca de um **Desenvolvedor Android** com paixão por tecnologia e experiência em **boas práticas de desenvolvimento**, entre em contato! 😃  
