@@ -28,6 +28,10 @@ Sou apaixonado por tecnologia e desenvolvimento mobile 📱. Tenho experiência 
 [Futebol de Várzea - Baixar Agora](https://play.google.com/store/apps/details?id=com.osmar.futebol)  
 
 ---
+### 📊 WakaTime Stats
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=osmardev&layout=compact&theme=dracula)
+
+---
 
 ### **📊 GitHub Stats**
 <div align="center">
