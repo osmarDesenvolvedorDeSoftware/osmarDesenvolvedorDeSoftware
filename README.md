@@ -7,20 +7,15 @@ Especializado em **Kotlin, Jetpack Compose e Clean Architecture**, com foco em p
 
 ---
 
-### **🛠 Tecnologias e Ferramentas**
+### 🛠 Stack Técnica
 
-✅ **Linguagens:** Kotlin, Java 
-
-✅ **Arquitetura:** MVVM, MVP, Clean Architecture  
-
-✅ **Banco de Dados:** SQLite, Room
-
-✅ **APIs & Networking:** Retrofit, Volley  
-
-✅ **UI/UX:** XML, Material Design
-
-✅ **Outras Ferramentas:** Git, Android Studio, Firebase, Play Console  
-
+| Categoria           | Tecnologias                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| **Linguagens**      | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) |
+| **Android Moderno** | ![Room](https://img.shields.io/badge/Room-4285F4?logo=android&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-000000?logo=retrofit&logoColor=white) ![XML](https://img.shields.io/badge/XML-FF0000?logo=xml&logoColor=white) ![Material Design](https://img.shields.io/badge/Material_Design-757575?logo=material-design&logoColor=white) |
+| **Arquitetura**     | ![MVVM](https://img.shields.io/badge/MVVM-5C2D91?logo=architecture&logoColor=white) ![MVP](https://img.shields.io/badge/MVP-FF6F00?logo=star&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00C7B7?logo=clean-architecture&logoColor=white) |
+| **Banco de Dados**  | ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Room](https://img.shields.io/badge/Room-4285F4?logo=android&logoColor=white) |
+| **DevOps**          | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Play Console](https://img.shields.io/badge/Play_Console-414141?logo=google-play&logoColor=white) |
 ---
 
 ### **📂 Projetos Destacados**
