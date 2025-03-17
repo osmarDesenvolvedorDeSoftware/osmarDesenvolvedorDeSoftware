@@ -7,11 +7,17 @@ Sou apaixonado por tecnologia e desenvolvimento mobile 📱. Tenho experiência 
 ---
 
 ### **🛠 Tecnologias e Ferramentas**
-✅ **Linguagens:** Kotlin, Java  
+
+✅ **Linguagens:** Kotlin, Java 
+
 ✅ **Arquitetura:** MVVM, MVP, Clean Architecture  
+
 ✅ **Banco de Dados:** SQLite, Room
+
 ✅ **APIs & Networking:** Retrofit, Volley  
+
 ✅ **UI/UX:** XML, Material Design
+
 ✅ **Outras Ferramentas:** Git, Android Studio, Firebase, Play Console  
 
 ---
