@@ -2,7 +2,8 @@
 
 <h2 align="center">👋 Olá, sou Osmar - Desenvolvedor Android!</h2>
 
-Sou apaixonado por tecnologia e desenvolvimento mobile 📱. Tenho experiência na **criação e manutenção de aplicativos Android**, utilizando **boas práticas, arquitetura moderna e ferramentas eficientes**.
+Desenvolvedor Android **com 2+ anos de experiência**, criando apps para usuários na Play Store.  
+Especializado em **Kotlin, Jetpack Compose e Clean Architecture**, com foco em performance e UX intuitivo.
 
 ---
 
