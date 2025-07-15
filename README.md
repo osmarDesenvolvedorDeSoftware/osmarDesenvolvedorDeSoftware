@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/osmarDesenvolvedorDeSoftware/osmarDesenvolvedorDeSoftware/refs/heads/main/banner.webp" alt="Banner Profissional" width="100%" />
+<img src="https://raw.githubusercontent.com/osmarDesenvolvedorDeSoftware/osmarDesenvolvedorDeSoftware/refs/heads/main/f1.png" alt="Banner Profissional" width="100%" />
 
 <h2 align="center"> Oi! Sou Osmar – Dev Android, Python e Automação</h2>
 
