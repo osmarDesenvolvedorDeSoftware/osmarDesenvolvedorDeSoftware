@@ -24,9 +24,9 @@
 
 ---
 
-### Minhas Stacks (Experiência Real )
+###  Minhas Stacks (Experiência Real)
 
-#### DevOps & Infraestrutura Cloud
+####  DevOps & Infraestrutura Cloud
 *(Minha especialidade principal: construir, automatizar e gerenciar infraestruturas modernas e escaláveis)*
 
 | Categoria | Tecnologias |
@@ -41,13 +41,14 @@
   
 
 
-#### Backend & Automação
+####  Backend & Automação
 *(Minha base de programação, usada para criar APIs, automações e as ferramentas que suportam a infraestrutura)*
 
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white ) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white ) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white ) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white ) |
 | **Frameworks Python** | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white ) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white ) |
+| **Web Scraping & Anti-Bot** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white ) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white ) ![Undriver](https://img.shields.io/badge/Undriver-D4AF37?logo=google-chrome&logoColor=white ) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8A4182?logo=python&logoColor=white ) |
 | **APIs & Integrações** | ![REST](https://img.shields.io/badge/REST-FF4088?logo=cloudflare&logoColor=white ) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black ) ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?logo=whatsapp&logoColor=white ) |
 
   
@@ -62,7 +63,6 @@
 | **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white ) ![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white ) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white ) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white ) |
 | **Ferramentas de Dev** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white ) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white ) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white ) |
 
----
 ###  WakaTime Stats
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=osmardev&layout=compact&theme=dracula)
 
