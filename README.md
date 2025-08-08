@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/osmarDesenvolvedorDeSoftware/osmarDesenvolvedorDeSoftware/main/f1.png" alt="Banner Profissional" width="100%" />
+  <img src="https://raw.githubusercontent.com/osmarDesenvolvedorDeSoftware/osmarDesenvolvedorDeSoftware/main/f2.png" alt="Banner Profissional" width="100%" />
 </p>
 
 <h1 align="center">Osmar F. Cavalcante</h1>
