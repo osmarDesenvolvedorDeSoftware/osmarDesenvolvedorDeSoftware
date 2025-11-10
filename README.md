@@ -12,7 +12,7 @@
 ---
 
  **Quer conversar sobre um projeto ou colaboração?**  
-📧 osmar@osmardev.online | 🌐 [osmardev.online](https://osmardev.online) | 📱 [WhatsApp](https://wa.me/5516996246673)
+ osmar@osmardev.online |  [osmardev.online](https://osmardev.online) |  [WhatsApp](https://wa.me/5516996246673)
 
 ---
 
@@ -51,12 +51,12 @@
 
 ---
 
-### 📊 WakaTime Stats
+###  WakaTime Stats
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=osmardev&layout=compact&theme=dracula)
 
 ---
 
-### 📌 Status Atual
+###  Status Atual
 
 - **Foco Principal:** Aprofundando conhecimentos em Kubernetes, Terraform e CI/CD para arquitetar soluções de nuvem robustas.  
 - **Estudando Ativamente:** Roadmap para a certificação CKA (Certified Kubernetes Administrator).  
@@ -65,7 +65,7 @@
 
 ---
 
-### 📈 Minhas Estatísticas no GitHub
+###  Minhas Estatísticas no GitHub
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=osmarDesenvolvedorDeSoftware&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -77,7 +77,7 @@
 
 ---
 
-### 📬 Contato
+###  Contato
 
 <p align="center">
   <a href="mailto:osmar@osmardev.online">
