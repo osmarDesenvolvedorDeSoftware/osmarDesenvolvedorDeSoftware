@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Osmar F. Cavalcante</h1>
-<h3 align="center">Engenheiro de DevOps, Desenvolvedor Android & Python • Automação de Infra e Sistemas</h3>
+<h3 align="center">Desenvolvedor de Automação • Python, Android & DevOps com Docker/Traefik, n8n e WhatsApp API</h3>
 
 <p align="center">
-  <em>Construindo soluções escaláveis, resilientes e automatizadas com Kubernetes, Docker, Terraform, CI/CD, Android e Python.</em>
+  <em>Construo integrações, automações corporativas e infra em Docker/Traefik em VPS, conectando APIs, WhatsApp, ERPs, n8n, scraping e IoT para resolver problemas reais de negócio.</em>
 </p>
 
 ---
@@ -18,36 +18,37 @@
 
 ###  Minhas Stacks (Experiência Real)
 
-#### **DevOps & Infraestrutura Cloud**
-*(Construção, automação e gerenciamento de infraestruturas modernas e escaláveis)*
+#### **DevOps & Infraestrutura**
+*(Infra estável e otimizada para produção real em VPS usando Docker/Traefik)*
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Orquestração** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white ) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white ) ![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?logo=docker&logoColor=white ) |
-| **Infra como Código (IaC)** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white ) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white ) |
-| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white ) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white ) |
-| **Monitoramento & Logs** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white ) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white ) ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?logo=prometheus&logoColor=white ) |
-| **Proxy Reverso & Gateway** | ![Traefik](https://img.shields.io/badge/Traefik-2496ED?logo=traefik-mesh&logoColor=white ) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white ) |
-| **Cloud & Virtualização** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white ) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white ) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black ) |
+| **Containers & Orquestração** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white ) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white ) |
+| **Proxy Reverso & Gateway** | ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=white ) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white ) |
+| **CI/CD & Automação de Deploy** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white ) ![Cron](https://img.shields.io/badge/Cron-000000?logo=linux&logoColor=white ) |
+| **Monitoramento & Logs** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white ) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white ) |
+| **Processos & Serviços** | ![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white ) ![Systemd](https://img.shields.io/badge/Systemd-000000?logo=linux&logoColor=white ) |
+| **Cloud & Infra** | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white ) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white ) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black ) |
 
 #### **Backend & Automação**
 *(APIs, automações e ferramentas para suportar a infraestrutura)*
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white ) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white ) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white ) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white ) |
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white ) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white ) |
 | **Frameworks Python** | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white ) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white ) |
 | **Web Scraping & Automação** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![Undetected Chromedriver](https://img.shields.io/badge/Undetected_Chromedriver-D4AF37?logo=google-chrome&logoColor=white) ![Nodriver CDP](https://img.shields.io/badge/Nodriver_CDP-1A1A1A?logo=google-chrome&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8A4182?logo=python&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-20232A?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) |
-| **APIs & Integrações** | ![REST](https://img.shields.io/badge/REST-FF4088?logo=cloudflare&logoColor=white ) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black ) ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?logo=whatsapp&logoColor=white ) |
+| **APIs & Integrações** | ![REST](https://img.shields.io/badge/REST-FF4088?logo=cloudflare&logoColor=white )  ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?logo=whatsapp&logoColor=white ) |
 
 #### **Desenvolvimento de Software & Banco de Dados**
 *(Visão completa do ciclo de vida do software)*
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Desenvolvimento Android** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white ) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white ) ![Room](https://img.shields.io/badge/Room-FF6F00?logo=android&logoColor=white ) |
-| **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white ) ![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white ) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white ) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white ) |
-| **Ferramentas de Dev** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white ) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white ) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white ) |
+| **Desenvolvimento Android** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white ) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white ) ![QR Code / Câmera](https://img.shields.io/badge/QR_Code_%26_Câmera-000000?logo=android&logoColor=white ) |
+| **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white ) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white ) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white ) |
+| **Ferramentas de Dev** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white ) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white ) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white ) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white ) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white ) |
+
 
 ---
 
@@ -58,10 +59,10 @@
 
 ###  Status Atual
 
-- **Foco Principal:** Aprofundando conhecimentos em Kubernetes, Terraform e CI/CD para arquitetar soluções de nuvem robustas.  
-- **Estudando Ativamente:** Roadmap para a certificação CKA (Certified Kubernetes Administrator).  
-- **Aberto para:** Projetos de DevOps, automação de infraestrutura e desenvolvimento sob medida (Android/Python).  
-- **Objetivo:** Construir e manter infraestruturas seguras, escaláveis e eficientes.
+- **Foco Principal:** Automações corporativas com Python, n8n e WhatsApp (Whaticket/Baileys), integrações com ERP, scraping e infra em Docker/Traefik em VPS.  
+- **Estudando Ativamente:** IoT aplicada (ESP32/Raspberry Pi), IA prática em automação e otimização de fluxo de atendimento.  
+- **Aberto para:** Projetos de automação, integrações entre sistemas, backend Flask/FastAPI com PostgreSQL, n8n em produção e apps Android conectados a APIs.  
+- **Objetivo:** Construir e manter sistemas e infraestruturas enxutas, estáveis e automatizadas que reduzam custo operacional e aumentem produtividade.
 
 ---
 
