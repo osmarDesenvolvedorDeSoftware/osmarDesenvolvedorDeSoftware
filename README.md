@@ -78,6 +78,34 @@
 
 ---
 
+Projetos Recentes (Produção Real)
+Sistema de Automação ERP – Tiny + WhatsApp + E-mail (2025)
+
+Integração completa entre Tiny ERP, WhatsApp e e-mail usando Flask + PostgreSQL.
+Sincroniza pedidos, processa webhooks, dispara mensagens automáticas e mantém toda a operação conectada.
+Destaques: autenticação OAuth2, filas de jobs, mensagens idempotentes, templates dinâmicos, CRON, deploy com Docker + Traefik.
+https://osmardev.online/projects/3
+
+Ambiente Multi-Instância Plex em Docker (2025)
+
+Infraestrutura com múltiplos servidores Plex isolados na mesma VPS Ubuntu.
+Destaques: isolamento real de volumes, ACL, redes separadas, correção UTF-8, tuning de pastas de mídia, Docker Compose organizado.
+https://www.plex.tv/
+
+Sistema Odonto PRO – Gestão de Clínicas (2025)
+
+Sistema completo para clínicas odontológicas com Flask (backend) + React (frontend) + PostgreSQL.
+Destaques: JWT, relatórios dinâmicos, SQLAlchemy + Alembic, dashboards administrativos, deploy com Docker + PM2 + Gunicorn.
+ https://odonto.osmardev.online/
+
+Plataforma ONG Associação Doce Esperança (2025)
+
+Site e painel administrativo para doações, loja via Pix e área de voluntários.
+Destaques: backend Flask, cache otimizado, sessões seguras, deploy com Docker, Nginx e Gunicorn.
+ https://associacaodoceesperanca.org/
+
+ Código-fonte: https://gitlab.com/osmardesenvolvedorsoftware/doce_esperenca
+
 ###  Contato
 
 <p align="center">
